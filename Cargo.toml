@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"lib/liba/",
+	"lib/libb/",
+	"bin/bina/",
+]

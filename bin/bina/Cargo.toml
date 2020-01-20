@@ -1,0 +1,10 @@
+[package]
+name = "bina"
+version = "0.1.0"
+authors = ["Dummy User <test@example.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+liba = { path = "../../lib/liba/" }
+ndarray = { version = "0.13" }
